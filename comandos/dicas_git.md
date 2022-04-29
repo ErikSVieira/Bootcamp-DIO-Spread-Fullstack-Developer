@@ -1,19 +1,21 @@
-# Windows
-## Comandos
-- cd
-- dir
-- mkdir
-- del / rmdir
+# Comandos Essenciais
 
-# Unix
-## Comandos
-- cd
-- ls
-- mkdir
-- rm -rf
+## Windows
+- #### Comandos Básicos para Shell
+    - cd
+    - dir
+    - mkdir
+    - del / rmdir
+
+## Unix
+- ### Comandos Básicos para Shell
+    - cd
+    - ls
+    - mkdir
+    - rm -rf
 
 
-# Comandos Basicos GIT
+## Criando arquivos com comando no Shell
 
     $ echo hello > hello.txt
 
@@ -22,11 +24,11 @@
 
     $ echo 'conteudo' | git hash-object --stdin
 
-## BLOB
+### BLOB
     $ echo -e  'conteudo' | openssl sha1
     $ echo -e 'blob 9\0conteudo' | openssl sha1
 
-## TREE
+### TREE
     $
 
 # Comando para configurar SSH do no seu GIT para Github
