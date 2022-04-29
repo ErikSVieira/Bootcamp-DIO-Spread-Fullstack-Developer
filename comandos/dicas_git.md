@@ -93,3 +93,6 @@
 
 ### Recebe arquivos remotos no repositorio local 
     $ git pull origin master
+
+### Para o Git gerenciar arquivos longos digite
+    $ git config –system core.longpaths true
