@@ -52,10 +52,10 @@
 ### Iniciar repositorio / Criar repositorio .git
     $ git init
 
-### Mover arquivos
+### Adicionar arquivos para 'commint'
     $ git add
 
-### Enviar arquivos
+### Cria arquivos commit para enviar para 'push'
     $ git commint
 
 ### Configurar e-mail do autor para o commit
