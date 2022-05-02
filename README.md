@@ -7,7 +7,7 @@
 ## Lógica de Programação
 - Lógica de programação **GAMEFICADA**
     1. [Scratch](https://scratch.mit.edu/)
-    1. [Hora do Código MINECRAFT](https://studio.code.org/s/mc/lessons/1/levels/1)
+    2. [Hora do Código MINECRAFT](https://studio.code.org/s/mc/lessons/1/levels/1)
 
 ## Links Úteis
 * [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
