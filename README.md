@@ -3,6 +3,8 @@
 
 ## Comandos
 - [GIT e GITHUB](https://github.com/ErikSVieira/Bootcamp-DIO-Spread-Fullstack-Developer/blob/main/comandos/dicas_git.md)
+- [HTML](https://github.com/ErikSVieira/Bootcamp-DIO-Spread-Fullstack-Developer/blob/main/comandos/dicas_html.md)
+- [CSS](https://github.com/ErikSVieira/Bootcamp-DIO-Spread-Fullstack-Developer/blob/main/comandos/dicas_css.md)
 
 ## Lógica de Programação
 - Lógica de programação **GAMEFICADA**
