@@ -69,3 +69,108 @@ O src é obrigatório e guarda o caminho para a imagem que você quer mostrar na
 O alt não é obrigatório mas é altamente recomendado por melhorar a acessibilidade, ele mostra a descrição da imagem caso ela não carregue e leitores de tela usam esse atributo para descrever a imagem para o usuário saber o que ela significa.
 
     <img></img>
+
+###
+    <details></details>
+
+    <summary></summary>
+
+#### Exemplo 1
+
+    <details>
+        <summary>
+            <section>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section> 
+        </summary>
+    </details>
+
+#### Exemplo 2
+
+    <label for="weekday">Selecione o dia</label>
+    <input type="week" name="weekday" id="weekday">
+    <input type="text">
+    <details id="weekday">
+        <option value="Domingo"></option>
+        <option value="Segunda"></option>
+        <option value="Terça"></option>
+        <option value="Quarta"></option>
+        <option value="Quinta"></option>
+        <option value="Sexta"></option>
+        <option value="Sábado"></option>
+    </details>
+
+
+### contenteditable
+
+#### Exemplo 
+
+    <h1 contenteditable></h1>
+
+
+###
+
+    <mark></mark>
+
+
+###
+
+    <cite></cite>
+
+
+###
+
+    <optgroup></optgroup>
+
+
+#### Exemplo
+
+    <label for=""></label>
+    <section>
+        <optgroup label="19h00">
+            <option value="1"></option>
+            <option value="2"></option>
+            <option value="3"></option>
+            <option value="4"></option>
+        </optgroup>
+        <optgroup label="20h00">
+            <option value="5"></option>
+            <option value="6"></option>
+            <option value="7"></option>
+            <option value="8"></option>
+        </optgroup>
+    </section>
+
+
+###
+
+     <progress></progress>
+
+
+
+#### Exemplo
+
+    <progress id="bar" value="0" max="100" class="w-full">Progresso a: 50%</progress>
+
+
+### 
+
+    <input type="text">
+<input type="text">
+
+
+#### Exemplos
+
+    <input type="range" name="" id="">
+<input type="range" name="" id="">
+
+    <input type="date" name="" id="">
+<input type="date" name="" id="">
+
+    <input type="color" name="" id="">
+<input type="color" name="" id="">
+
+    <input type="time" name="" id="">
+<input type="time" name="" id="">

@@ -19,3 +19,7 @@
 * [Visual Studio Code](https://visualstudio.microsoft.com/pt-br/)
 
 * [Visual Studio Code - Download](https://code.visualstudio.com/)
+
+* [W3schools](https://www.w3schools.com/)
+
+* [jQuery UI](https://jqueryui.com/)
