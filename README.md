@@ -22,4 +22,6 @@
 
 * [W3schools](https://www.w3schools.com/)
 
+* [Mozilla - Developer](https://developer.mozilla.org/)
+
 * [jQuery UI](https://jqueryui.com/)
